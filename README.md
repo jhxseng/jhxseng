@@ -12,19 +12,19 @@
 
 ###
 
-<h1 align="center">Hola! || Hello!</h1>
+<h1 align="center">hola! {} hello!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About me</h3>
+<h3 align="left">  + about me</h3>
 
 ###
 
-<p align="left">I'm Naomi from Perú<br><br>- 🔭 I’m working as Junior Programmer Analyst<br>- 📚 I'm currently learning Angular<br>- ⚡ In my free time I like to play videogames, read and sing!</p>
+<p align="left">I'm Naomi from Lima - Perú<br><br>- + I’m working as Junior Programmer Analyst<br>- + I'm currently learning Angular<br>- + In my free time I like to play videogames, read and sing!</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">[🛠] language and tools</h3>
 
 ###
 
@@ -51,9 +51,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
