@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Naomi from Lima - Perú<br><br>- + I’m working as Junior Programmer Analyst<br>- + I'm currently learning Angular<br>- + In my free time I like to play videogames, read and sing!</p>
+<p align="left">I'm Naomi from Lima - Perú<br><br>- + I’m working as Junior Programmer Analyst<br>- + I'm currently learning React<br>- + In my free time I like to play videogames, read and sing!</p>
 
 ###
 
